@@ -183,6 +183,11 @@ To run the unit tests, follow these steps:
 ## Contributing
 Contributions are welcome! Please feel free.
 
+##
+To clone this repository to your local machine, open your terminal or command prompt and run the following command:
+
+```bash
+git clone https://gitlab.com/musala_soft/DEV_DRONES-642f9847-d01d-4e09-8817-383ee60d67b2.git
 
 
 ##Project Developed By:
