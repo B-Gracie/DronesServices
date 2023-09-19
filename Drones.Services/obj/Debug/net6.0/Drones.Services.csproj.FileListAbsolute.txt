@@ -1,0 +1,17 @@
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\bin\Debug\net6.0\Drones.Services.deps.json
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\bin\Debug\net6.0\Drones.Services.runtimeconfig.json
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\bin\Debug\net6.0\Drones.Services.dll
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\bin\Debug\net6.0\Drones.Services.pdb
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\bin\Debug\net6.0\Drones.DAL.dll
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\bin\Debug\net6.0\Drones.DAL.pdb
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.csproj.AssemblyReference.cache
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.AssemblyInfoInputs.cache
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.AssemblyInfo.cs
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.csproj.CoreCompileInputs.cache
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.csproj.CopyComplete
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.dll
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\refint\Drones.Services.dll
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.pdb
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\Drones.Services.genruntimeconfig.cache
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.Services\obj\Debug\net6.0\ref\Drones.Services.dll

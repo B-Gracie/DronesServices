@@ -1,0 +1,14 @@
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\bin\Debug\net6.0\Drones.DAL.deps.json
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\bin\Debug\net6.0\Drones.DAL.runtimeconfig.json
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\bin\Debug\net6.0\Drones.DAL.dll
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\bin\Debug\net6.0\Drones.DAL.pdb
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\Drones.DAL.csproj.AssemblyReference.cache
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\Drones.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\Drones.DAL.AssemblyInfoInputs.cache
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\Drones.DAL.AssemblyInfo.cs
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\Drones.DAL.csproj.CoreCompileInputs.cache
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\Drones.DAL.dll
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\refint\Drones.DAL.dll
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\Drones.DAL.pdb
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\Drones.DAL.genruntimeconfig.cache
+C:\Users\BukolaGrace\Personal Projects\DronesMedicationServices\Drones.DAL\obj\Debug\net6.0\ref\Drones.DAL.dll

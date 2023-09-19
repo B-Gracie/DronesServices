@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8a25b860_002D5366_002D4e57_002D8473_002D6deb93647e47/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MedicationControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::75882976-2393-454B-B7FF-83AE1B11D53D::net6.0::Drones.API.Test.ControllerTests.MedicationControllerTests.GetLoadedMedicationsAsync_ReturnsOkResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::75882976-2393-454B-B7FF-83AE1B11D53D::net6.0::Drones.API.Test.ControllerTests.MedicationControllerTests.CreateMedicationAndLoadAsync_ReturnsOkResult_WhenMedicationIsCreated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::75882976-2393-454B-B7FF-83AE1B11D53D::net6.0::Drones.API.Test.ControllerTests.MedicationControllerTests.GetLoadedMedicationsAsync_ReturnsNotFound_WhenMedicationsDoNotExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::75882976-2393-454B-B7FF-83AE1B11D53D::net6.0::Drones.API.Test.ControllerTests.BatteryLogControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3EDA8EC3-24B9-49D1-B5B4-7FE1631D614E::net6.0::Drones.DAL.Test.RepositoryTests.DronesRepositoryTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3EDA8EC3-24B9-49D1-B5B4-7FE1631D614E::net6.0::Drones.DAL.Test.RepositoryTests.MedicationRepositoryTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
