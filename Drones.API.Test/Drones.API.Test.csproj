@@ -37,9 +37,6 @@
     </ItemGroup>
 
 
-    <ItemGroup>
-      <Folder Include="ServicesTests\" />
-    </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\Drones.API\Drones.API.csproj" />

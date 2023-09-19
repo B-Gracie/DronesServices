@@ -13,10 +13,8 @@ public class BatteryLogControllerTests
 
     public BatteryLogControllerTests()
     {
-        // Create a mock for IBatteryLogService
         var batteryLogServiceMock = new Mock<IBatteryLogService>();
 
-        // Initialize the controller with the mock service
         _controller = new BatteryLogController(batteryLogServiceMock.Object);
     }
 
@@ -43,9 +41,9 @@ public class BatteryLogControllerTests
         // Arrange
         var droneId = 1;
         var count = 5;
-        var batteryLogs = new List<BatteryLog>(); // Your test data here
+        var batteryLogs = new List<BatteryLog>();
 
-        // Mock the service to return battery logs
+  
         var batteryLogServiceMock = new Mock<IBatteryLogService>();
         batteryLogServiceMock
             .Setup(service => service.GetBatteryLogsAsync(droneId, count))
@@ -59,7 +57,6 @@ public class BatteryLogControllerTests
         // Assert
         var okResult = Assert.IsType<OkObjectResult>(result);
         var model = Assert.IsAssignableFrom<IEnumerable<BatteryLog>>(okResult.Value);
-        // Add more assertions here based on your expected behavior
     }
 
    }
