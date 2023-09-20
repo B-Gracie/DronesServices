@@ -1,7 +1,6 @@
 
 
 # Drone Service
-[Bukola Ayangunna, gracieayan@gmail.com]
 
 ## Table of Contents
 - [Introduction]
@@ -183,17 +182,3 @@ To run the unit tests, follow these steps:
 ## Contributing
 Contributions are welcome! Please feel free.
 
-##
-To clone this repository to your local machine, open your terminal or command prompt and run the following command:
-
-```bash
-git clone https://gitlab.com/musala_soft/DEV_DRONES-642f9847-d01d-4e09-8817-383ee60d67b2.git
-
-
-##Project Developed By:
-
-Bukola Ayangunna
-gracieayan@gmail
-=======
-# DronesServices
->>>>>>> 679720ee66b8fbdef968404022b84699ebbcda92
